@@ -1,0 +1,16 @@
+**/.DS_Store
+# Ignore project folders that should not be tracked
+biblioteca-poo/
+Cypress/
+info-food-app/
+learningPython/
+POO/
+Postman/
+Selenium-webdriver/
+Test playwright/
+biblioteca-poo/
+info-food-app/
+learningPython/
+nutri-app/
+tests/
+tidalycles/
